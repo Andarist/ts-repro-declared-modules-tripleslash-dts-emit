@@ -1,0 +1,14 @@
+{
+  "name": "ts-repro-declared-modules-tripleslash-dts-emit",
+  "private": true,
+  "repository": "git@github.com:Andarist/ts-repro-declared-modules-tripleslash-dts-emit.git",
+  "author": "Mateusz Burzyński <mateuszburzynski@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^5.5.0-dev.20240531"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "prettier": {}
+}
