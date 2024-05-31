@@ -5,7 +5,7 @@
   "author": "Mateusz Burzyński <mateuszburzynski@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "typescript": "^5.5.0-dev.20240531"
+    "typescript": "^5.4.5"
   },
   "workspaces": [
     "packages/*"
